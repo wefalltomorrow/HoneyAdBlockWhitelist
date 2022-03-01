@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: Honey Smart Shopping
+! Expires: 60 days (update frequency)
+! Homepage: https://github.com/wefalltomorrow/HoneyAdBlockWhitelist
+!Honey
+@@||joinhoney.com*$document
+@@||joinhoney.com*$elemhide
+!
+! Cash Back Trackers
+@@||joinhoney.com^*
+@@||joinhoney.com^*$~third-party
+@@||honey.io^*
